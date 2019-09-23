@@ -1,6 +1,3 @@
-# Walking-Data-Classifier
-
-
 # **How to run our code?** 
 
 **Please run Cleaning_Data.ipynb and get feature_df.csv. Afterwards, please run Analysis_Data.ipynb to get our analysis there.**
